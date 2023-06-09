@@ -1,3 +1,4 @@
+import torch
 import click
 import torch
 import logging
